@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-impersonation",
+  "name": "strapi-impersonate-plugin-dapth-fork",
   "version": "0.1.2",
   "description": "A plugin to enable impersonation in strapi",
   "strapi": {
